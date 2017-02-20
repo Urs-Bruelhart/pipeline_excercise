@@ -1,2 +1,2 @@
 # pipeline_excercise
-Pipeline Study Excercises
+Pipeline Study Excercises for Jenkins SCM
